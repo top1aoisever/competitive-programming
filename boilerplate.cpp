@@ -7,6 +7,7 @@ void fileIO(const char* inputFile, const char* outputFile) {
 }
 
 void solve() {
+    std::cout << "hello";
 }
 
 int main() {
